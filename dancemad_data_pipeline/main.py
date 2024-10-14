@@ -2,6 +2,10 @@ import pandas as pd
 import numpy as np
 import sys
 import os
+from dotenv import load_dotenv
+
+# Load variables from .env file
+load_dotenv()
 
 # Allows to use my own packages from my project directory
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
@@ -32,7 +36,7 @@ yelp_df = pd.DataFrame([], columns =columns)
 y_save = True # 
 
 # Details
-google_api_key = 'AIzaSyBbP7zhBtv3WZq6MFMrHVpSLW8IVthEaYk'
+google_api_key = os.getenv('GOOGLE_API_KEY')
 
 # search each dance style
 for style in dance_types:
@@ -68,7 +72,7 @@ for style in dance_types:
             
 
 # Save dataframes 
-if g_save != False:
-    google_df.to_csv('C:/Users/hazze/OneDrive/Documents/DanceMad/dancemad_data_pipeline/process_data/google_data.csv')
-if y_save != False:
-    yelp_df.to_csv('C:/Users/hazze/OneDrive/Documents/DanceMad/dancemad_data_pipeline/process_data/yelp_data.csv')          
+# if g_save != False:
+google_df.to_csv('C:/Users/hazze/OneDrive/Documents/DanceMad/dancemad_data_pipeline/process_data/google_data.csv')
+# if y_save != False:
+yelp_df.to_csv('C:/Users/hazze/OneDrive/Documents/DanceMad/dancemad_data_pipeline/process_data/yelp_data.csv')          

@@ -1,8 +1,13 @@
 import requests
+import os
+from dotenv import load_dotenv
+
+# Load variables from .env file
+load_dotenv()
 
 # Yelp API base URL
 url = 'https://api.yelp.com/v3/businesses/search'
-yelp_api_key = 'dvtPmErwVqX_DCn62q8lEc-VG4hLhOX0TtVdAJfuVT0DAsus0EyPwphl4-9I3QK2LNZDS9t03455ad360hKqDbrC3jYY45B-RVvzdXPkm0f7-hsU4B8eI92sUmjbZnYx'
+yelp_api_key = os.getenv('YELP_API_KEY') 
 
 # Set the API request headers
 headers = {
