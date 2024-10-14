@@ -1,0 +1,380 @@
+,name,formatted_address,rating,user_ratings_total,types,price_level,dance_type,city
+0,Gonzalez y Gonzalez,"192 Mercer St, New York, NY 10012, United States",4.1,1799,"['restaurant', 'night_club', 'food', 'point_of_interest', 'establishment']",2.0,Salsa,New York
+1,Club Cache,"214 W 39th St ground Unit#5, New York, NY 10018, United States",3.9,255,"['night_club', 'point_of_interest', 'establishment']",,Salsa,New York
+2,Salsa Con Fuego,"2297 Cedar Ave, Bronx, NY 10468, United States",4.2,5697,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Salsa,New York
+3,Deseos Lounge,"52-15 Roosevelt Ave, Woodside, NY 11377, United States",4.1,174,"['night_club', 'bar', 'point_of_interest', 'establishment']",,Salsa,New York
+4,Salsamania Saturdays,"224 W 35th St, New York, NY 10001, United States",4.8,93,"['point_of_interest', 'establishment']",,Salsa,New York
+5,Salsa in Queens,"34-27 Steinway St, Astoria, NY 11101, United States",4.9,140,"['point_of_interest', 'establishment']",,Salsa,New York
+6,Joel Salsa,"38 W 32nd St 4th floor, New York, NY 10001, United States",5.0,434,"['point_of_interest', 'establishment']",,Salsa,New York
+7,LVG Salsa Social NYC,"617 W 46th St, New York, NY 10036, United States",4.9,39,"['point_of_interest', 'establishment']",,Salsa,New York
+8,Bembe,"81 S 6th St, Brooklyn, NY 11249, United States",4.3,1223,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,New York
+9,Candela Fridays NYC,"37 W 26th St, New York, NY 10010, United States",4.9,16,"['point_of_interest', 'establishment']",,Salsa,New York
+10,Salsa Sabrosa,"410-412 8th Ave 4th Floor, New York, NY 10001, United States",5.0,240,"['point_of_interest', 'establishment']",,Salsa,New York
+11,Copacabana Nightclub,"625 W 51st St, New York, NY 10019, United States",3.5,625,"['night_club', 'point_of_interest', 'establishment']",,Salsa,New York
+12,The Delancey Rooftop,"168 Delancey St, New York, NY 10002, United States",4.0,1773,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Salsa,New York
+13,KS Bachata Sensual NYC - Art of Bachata Sensual,"38W W 32nd St #405, New York, NY 10001, United States",4.9,165,"['point_of_interest', 'establishment']",,Salsa,New York
+14,Salsa y Sazon,"370 E 146th St, Bronx, NY 10455, United States",4.3,127,"['night_club', 'bar', 'point_of_interest', 'establishment']",,Salsa,New York
+15,Sounds Of Brazil,"204 Varick St, New York, NY 10014, United States",3.7,563,"['night_club', 'bar', 'point_of_interest', 'establishment']",3.0,Salsa,New York
+16,Salsa Salsa Dance Studio,"55 4th Ave, Brooklyn, NY 11217, United States",4.9,231,"['point_of_interest', 'establishment']",,Salsa,New York
+17,Somos Latin Dance,"305 W 38th St 2nd floor, New York, NY 10018, United States",4.9,21,"['point_of_interest', 'establishment']",,Salsa,New York
+18,Lorenz Latin Dance Studio Manhattan,"2153 2nd Ave, New York, NY 10029, United States",4.9,49,"['school', 'point_of_interest', 'establishment']",,Salsa,New York
+19,Solas,"232 E 9th St # 1, New York, NY 10003, United States",3.9,853,"['bar', 'point_of_interest', 'establishment']",2.0,Salsa,New York
+20,Salsa - Temple,"Victoria Embankment, Temple, London WC2R 2PH, United Kingdom",4.7,7921,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,London
+21,Salsa - Soho,"96 Charing Cross Rd, London WC2H 0JG, United Kingdom",4.5,7972,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,London
+22,Hammersmith Salsa & Bachata Club,"11 Rutland Grove, London W6 9DH, United Kingdom",4.9,181,"['bar', 'point_of_interest', 'establishment']",,Salsa,London
+23,Casa De Salsa,"65 Fieldgate St, London E1 1JU, United Kingdom",5.0,21,"['night_club', 'point_of_interest', 'establishment']",,Salsa,London
+24,Club Azucar - Latin Dance,"King St, London W6 9JT, United Kingdom",5.0,95,"['point_of_interest', 'establishment']",,Salsa,London
+25,La Pollera Colora,"4-6 London Bridge St, London SE1 9SG, United Kingdom",3.2,224,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,London
+26,Salsatropical Dance Company Ltd.- Salsa & Bachata Classes and Workshops,"1 Sheffield St, London WC2A 2AP, United Kingdom",4.9,377,"['point_of_interest', 'establishment']",,Salsa,London
+27,Exilio Latinx Party,"267 Kingsland Rd, Whitmore Estate, London E2 8AS, United Kingdom",3.0,31,"['night_club', 'point_of_interest', 'establishment']",,Salsa,London
+28,SOS Salsa On Sundays,"2 Regent's Park Rd, London NW1 7AY, United Kingdom",4.7,12,"['night_club', 'point_of_interest', 'establishment']",,Salsa,London
+29,Latin Krazy,"Bar Salsa, Temple Pl, Temple, London WC2R 2PH, United Kingdom",3.4,12,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",,Salsa,London
+30,City Salsa London Salsa Classes and Clubs,"Clapham Junction, 68 Battersea Rise, London SW11 1EQ, United Kingdom",4.7,20,"['night_club', 'point_of_interest', 'establishment']",,Salsa,London
+31,Caramelo Latin Dance Academy,"Paddington Academy, 50 Marylands Rd, London W9 2DR, United Kingdom",4.6,112,"['point_of_interest', 'establishment']",,Salsa,London
+32,Cubaneando Salsa Classes,"c 4, 6 London Bridge St, London SE1 9SG, United Kingdom",4.6,86,"['night_club', 'point_of_interest', 'establishment']",,Salsa,London
+33,Salsateca Dance School,"27 Blackfriars Rd, London SE1 8NY, United Kingdom",4.9,86,"['point_of_interest', 'establishment']",,Salsa,London
+34,Rumba,"36 Shaftesbury Ave, London W1D 7EP, United Kingdom",3.5,1682,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,London
+35,"North London Salsa Club, Finchley","Christ's College, E End Rd, London N2 0SE, United Kingdom",4.8,59,"['point_of_interest', 'establishment']",,Salsa,London
+36,Putney Salsa Club,"63A Upper Richmond Rd, London SW15 2RD, United Kingdom",4.7,22,"['point_of_interest', 'establishment']",,Salsa,London
+37,The Latin Passion,"Leicester House, 1 Leicester St, London WC2H 7BP, United Kingdom",4.8,16,"['point_of_interest', 'establishment']",,Salsa,London
+38,Bachata Kiss,"37 Tavistock Pl, London WC1H 9SE, United Kingdom",5.0,9,"['point_of_interest', 'establishment']",,Salsa,London
+39,SALSA BALHAM @ THE BEDFORD - Every MONDAY night,"77 Bedford Hill, London SW12 9HD, United Kingdom",4.9,7,"['gym', 'night_club', 'point_of_interest', 'health', 'establishment']",,Salsa,London
+40,Warsaw Salsa Club,"Nowowiejska 37B, 00-001 Warszawa, Poland",4.9,87,"['point_of_interest', 'establishment']",,Salsa,Warsaw
+41,Dos Mundos,"aleje Jerozolimskie 123A, 02-017 Warszawa, Poland",4.6,341,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Warsaw
+42,La Playa Music Bar,"Wybrzeże Helskie 1/5, 03-459 Warszawa, Poland",4.0,2307,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",2.0,Salsa,Warsaw
+43,Teatro Cubano Warsaw,"Aleksandra Fredry 6, 00-097 Warszawa, Poland",3.6,6565,"['bar', 'movie_theater', 'night_club', 'restaurant', 'food', 'point_of_interest', 'establishment']",,Salsa,Warsaw
+44,Fiesta Latina,"Nowogrodzka 31, 00-511 Warszawa, Poland",3.9,318,"['point_of_interest', 'establishment']",,Salsa,Warsaw
+45,Salsa Libre,"Żelazna 59, 00-848 Warszawa, Poland",4.7,244,"['point_of_interest', 'establishment']",,Salsa,Warsaw
+46,Viva Cuba Dance Studio,"Marszałkowska 115 wejście od, Przechodnia, 00-102 Warszawa, Poland",4.8,131,"['point_of_interest', 'establishment']",,Salsa,Warsaw
+47,ENKLAWA Art & Music Club,"Mazowiecka 12, 00-048 Warszawa, Poland",4.2,1636,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,Warsaw
+48,Level 27,"aleje Jerozolimskie 123A, 02-017 Warszawa, Poland",4.0,2951,"['night_club', 'bar', 'point_of_interest', 'establishment']",3.0,Salsa,Warsaw
+49,Klub Medyka,"Wojciecha Oczki 1A, 02-007 Warszawa, Poland",4.0,769,"['night_club', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Salsa,Warsaw
+50,Salsa Clasica,"Juliana Bartoszewicza 5, 00-337 Warszawa, Poland",4.8,97,"['point_of_interest', 'establishment']",,Salsa,Warsaw
+51,RITUAL Cocktail Club,"Mazowiecka 12, 00-048 Warszawa, Poland",4.3,1962,"['night_club', 'bar', 'point_of_interest', 'establishment']",3.0,Salsa,Warsaw
+52,Luzztro,"aleje Jerozolimskie 6, 00-374 Warszawa, Poland",3.9,1086,"['night_club', 'point_of_interest', 'store', 'establishment']",2.0,Salsa,Warsaw
+53,Tygmont Live Club,"Mazowiecka 6/8, 00-048 Warszawa, Poland",3.9,1264,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,Warsaw
+54,Szkoła Tańców Karaibskich SalsHall Ortodox,"Żytnia 15/lok. 4, 01-014 Warszawa, Poland",4.9,205,"['point_of_interest', 'establishment']",,Salsa,Warsaw
+55,Capitol Warsaw Club,"Marszałkowska 115, 00-102 Warszawa, Poland",3.5,393,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Warsaw
+56,BANK CLUB - THE BEST CLUB IN WARSAW,"Mazowiecka 14, 00-048 Warszawa, Poland",3.9,1539,"['night_club', 'point_of_interest', 'establishment']",3.0,Salsa,Warsaw
+57,THE CUBAN PLACE,"Białobrzeska 32, 02-341 Warszawa, Poland",4.6,97,"['school', 'point_of_interest', 'establishment']",,Salsa,Warsaw
+58,Salsa Passion Warszawa,"Skaryszewska 15, 03-802 Warszawa, Poland",4.9,47,"['point_of_interest', 'establishment']",,Salsa,Warsaw
+59,Polish School of Dance Club,"Wał Miedzeszyński 646, 03-994 Warszawa, Poland",4.9,69,"['point_of_interest', 'establishment']",,Salsa,Warsaw
+60,Discoteca El Son,"C. de la Victoria, 6, Centro, 28012 Madrid, Spain",4.1,3293,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,Madrid
+61,The Host Club,"C. de Ferraz, 38, Moncloa - Aravaca, 28008 Madrid, Spain",4.1,1145,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Madrid
+62,Discoteca Azúcar,"C. de Atocha, 107, Centro, 28012 Madrid, Spain",3.8,447,"['night_club', 'point_of_interest', 'establishment']",1.0,Salsa,Madrid
+63,Golden Gran Vía,"Pl. de los Mostenses, 11, Centro, 28013 Madrid, Spain",3.8,829,"['night_club', 'point_of_interest', 'establishment']",1.0,Salsa,Madrid
+64,Enchufla Club de Salsa,"C. Cerro de la Alcazaba, 38, Puente de Vallecas, 28053 Madrid, Spain",4.7,73,"['night_club', 'point_of_interest', 'establishment']",1.0,Salsa,Madrid
+65,Nuvo Latín Bar,"C. del Estrecho de Gibraltar, 12, Cdad. Lineal, 28027 Madrid, Spain",4.4,255,"['night_club', 'point_of_interest', 'establishment']",1.0,Salsa,Madrid
+66,Samsara,"C. de la Cruz, 7, Centro, 28012 Madrid, Spain",4.1,3010,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Madrid
+67,Center Mambo Latino,"C. de Orense, 22, Tetuán, 28020 Madrid, Spain",3.8,328,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Madrid
+68,Discoteca la Rosa,"C. Francisco de Icaza, 3, Carabanchel, 28025 Madrid, Spain",3.9,668,"['night_club', 'point_of_interest', 'establishment']",1.0,Salsa,Madrid
+69,Salsabachata Avenida de América,"C. de Coslada, 19, Salamanca, 28028 Madrid, Spain",4.8,888,"['school', 'point_of_interest', 'establishment']",,Salsa,Madrid
+70,"Sala Zeus, Móstoles","C. Becquer, 3, 28932 Móstoles, Madrid, Spain",4.0,555,"['night_club', 'point_of_interest', 'establishment']",1.0,Salsa,Madrid
+71,Club 54,"C. de Barbieri, 7, Centro, 28004 Madrid, Spain",4.1,565,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,Madrid
+72,DANCES WITH STYLE / CUBAN SALSA CLASSES IN MADRID,"C. de Carretas, 14, 5º F, Centro, 28012 Madrid, Spain",4.9,32,"['point_of_interest', 'establishment']",,Salsa,Madrid
+73,Salsabachata Quevedo,"C. de Cercedilla, 3, Chamberí, 28015 Madrid, Spain",4.8,952,"['school', 'point_of_interest', 'establishment']",,Salsa,Madrid
+74,Cibeles Night Club - Madrid,"C. de las Hileras, 17, Centro, 28013 Madrid, Spain",3.7,926,"['night_club', 'point_of_interest', 'establishment']",1.0,Salsa,Madrid
+75,"Sala Olvido - Discoteca, Sala de Conciertos y Eventos.","C. del Olvido, 15, Usera, 28026 Madrid, Spain",4.2,646,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Madrid
+76,Teresa Club,"C. del Príncipe, 11, Centro, 28012 Madrid, Spain",4.2,1341,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Madrid
+77,Commo,"C. de Espoz y Mina, 22, Centro, 28012 Madrid, Spain",3.8,1357,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,Madrid
+78,Moondance Madrid,"C. de la Aduana, 21, Centro, 28012 Madrid, Spain",3.4,2309,"['night_club', 'bar', 'point_of_interest', 'establishment']",1.0,Salsa,Madrid
+79,Sala Stella,"C. de Arlabán, 7, Centro, 28014 Madrid, Spain",3.8,616,"['night_club', 'point_of_interest', 'establishment']",1.0,Salsa,Madrid
+80,Antilla Barcelona,"C. de Viladomat, 211, L'Eixample, 08015 Barcelona, Spain",4.1,1042,"['point_of_interest', 'establishment']",1.0,Salsa,Barcelona
+81,Seven Dance Gràcia,"Carrer del Perill, 10, Gràcia, 08012 Barcelona, Spain",4.5,511,"['point_of_interest', 'establishment']",,Salsa,Barcelona
+82,Discoteca Latin Palace Barcelona,"C/ de Ramon Trias Fargas, 2-4, Ciutat Vella, 08005 Barcelona, Spain",4.2,1898,"['night_club', 'bar', 'point_of_interest', 'establishment']",,Salsa,Barcelona
+83,Salsongu - Bachatongu,"Passatge d'Utset, 11, L'Eixample, 08013 Barcelona, Spain",4.3,211,"['point_of_interest', 'establishment']",,Salsa,Barcelona
+84,El Bombó Salsa,"Carrer de la Mercè, 13, Ciutat Vella, 08002 Barcelona, Spain",4.0,686,"['bar', 'point_of_interest', 'establishment']",2.0,Salsa,Barcelona
+85,El Sabor,"Carrer de Francisco Giner, 32, Gràcia, 08012 Barcelona, Spain",4.5,1064,"['bar', 'point_of_interest', 'establishment']",1.0,Salsa,Barcelona
+86,Canela Dance Club,"Carrer de Ca l'Alegre de Dalt, 55, Gràcia, 08024 Barcelona, Spain",3.4,595,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Barcelona
+87,Otto Zutz Club,"Carrer de Lincoln, 15, Sarrià-Sant Gervasi, 08006 Barcelona, Spain",3.3,4803,"['night_club', 'point_of_interest', 'establishment']",3.0,Salsa,Barcelona
+88,D'Rumba Barcelona,"C. de Viladomat, 211, L'Eixample, 08015 Barcelona, Spain",3.7,851,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Barcelona
+89,Bcn Baila - Salsa classes - Bachata and more!,"C/ d'Aragó, 178, L'Eixample, 08011 Barcelona, Spain",4.9,155,"['point_of_interest', 'establishment']",,Salsa,Barcelona
+90,Sala Apolo,"C/ Nou de la Rambla, 113, Sants-Montjuïc, 08004 Barcelona, Spain",4.2,10457,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Barcelona
+91,Razzmatazz,"C/ dels Almogàvers, 122, Sant Martí, 08018 Barcelona, Spain",4.2,19882,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Barcelona
+92,Agua De Luna,"C. de Viladomat, 211, L'Eixample, 08029 Barcelona, Spain",3.7,21,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Barcelona
+93,MULTICULTURAL SALSA Y BACHATA BARCELONA,"C/ d'Ausiàs Marc, 125, L'Eixample, 08013 Barcelona, Spain",4.9,27,"['school', 'point_of_interest', 'establishment']",,Salsa,Barcelona
+94,Habana Barcelona,"Pg. de Joan de Borbó, 74, Ciutat Vella, 08039 Barcelona, Spain",3.7,148,"['restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Salsa,Barcelona
+95,Le Queen Barcelona,"Carrer dels Escudellers, 5, Ciutat Vella, 08002 Barcelona, Spain",3.6,151,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Barcelona
+96,Pacha Barcelona,"C/ de Ramon Trias Fargas, 2, Ciutat Vella, 08005 Barcelona, Spain",3.2,7827,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.0,Salsa,Barcelona
+97,Gràcia Llatina,"C/ de l'Or, 19, Gràcia, 08012 Barcelona, Spain",4.2,1302,"['bar', 'point_of_interest', 'establishment']",,Salsa,Barcelona
+98,GOLDEN ROSE PARTY,"Carrer dels Escudellers, 5, Ciutat Vella, 08002 Barcelona, Spain",4.8,242,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Barcelona
+99,Sala Bikini Barcelona,"L'Illia, Av. Diagonal, 547, 08029 Barcelona, Spain",3.8,1558,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Barcelona
+100,La Peña,"3 Pass. de la Petite Boucherie, 75006 Paris, France",3.5,465,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Paris
+101,Salsero Pub Latino,"9 Rue du Petit Pont, 75005 Paris, France",3.7,1054,"['bar', 'point_of_interest', 'establishment']",2.0,Salsa,Paris
+102,La Pachanga,"8 Rue Vandamme, 75014 Paris, France",3.6,583,"['night_club', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Salsa,Paris
+103,Canela Club,"77 Rue du Faubourg du Temple, 75010 Paris, France",3.6,141,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Paris
+104,School Dances Latines Salsanueva,"32 Rue du Capitaine Marchal, 75020 Paris, France",4.9,251,"['point_of_interest', 'establishment']",,Salsa,Paris
+105,Le Balajo,"9 Rue de Lappe, 75011 Paris, France",3.5,1522,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Paris
+106,Ecole Danses Latines-Tropicales Salsadanse.com,"40 Rue de Cîteaux, 75012 Paris, France",4.7,255,"['point_of_interest', 'establishment']",,Salsa,Paris
+107,Studio Massaro - School Dances Latines - Paris Nation,"290 Bd Voltaire, 75011 Paris, France",4.4,296,"['point_of_interest', 'establishment']",,Salsa,Paris
+108,Salsalianza _ Studio Bleu,"Entrée entre DEVREDetLCL _ deuxième sous-sol, 14 Bd Poissonnière, 75009 Paris, France",4.7,57,"['point_of_interest', 'establishment']",,Salsa,Paris
+109,"Cubana Café , Soirées Salsa, Bar à Cocktails, Bar de nuit, Fumoir, Restaurant Montparnasse","47 Rue Vavin, 75006 Paris, France",4.2,1935,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']",2.0,Salsa,Paris
+110,Salsabor Paris,"31 Rue Chapon, 75003 Paris, France",4.9,118,"['point_of_interest', 'establishment']",,Salsa,Paris
+111,Cuba Compagnie Café,"48 Bd Beaumarchais, 75011 Paris, France",4.2,3191,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Salsa,Paris
+112,Para La Salsa,"8 Rue de Bièvre, 75005 Paris, France",5.0,23,"['point_of_interest', 'establishment']",,Salsa,Paris
+113,Pub,"40 Rue de la Huchette, 75005 Paris, France",3.5,626,"['bar', 'point_of_interest', 'establishment']",,Salsa,Paris
+114,Le Roméo,"71 Bd Saint-Germain, 75005 Paris, France",3.2,445,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Paris
+115,Salsa,"11 Bis Quai Saint-Bernard, 75005 Paris, France",3.9,29,"['point_of_interest', 'establishment']",,Salsa,Paris
+116,O'Sullivans By The Mill,"92 Bd de Clichy, 75018 Paris, France",4.2,4901,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Salsa,Paris
+117,"Evoke Paris Dance, Salsa, Bachata, Burlesque, Ballroom, Wedding Choreoraphies, Classes & lessons","14 Rue de Châteaudun, 75009 Paris, France",5.0,20,"['school', 'point_of_interest', 'establishment']",,Salsa,Paris
+118,Mariebsalsa,"chez Paris Mambo, 48 Rue de la Gare de Reuilly, 75012 Paris, France",5.0,46,"['point_of_interest', 'establishment']",,Salsa,Paris
+119,SALSA CON ELEGUA,"1 Av. Pierre Masse, 75014 Paris, France",4.9,320,"['point_of_interest', 'establishment']",,Salsa,Paris
+120,Casa de la Salsa,"Jaime, Lima 169, La Victoria 15033, Peru",4.2,339,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Lima
+121,La Casona de Camana,"Jr. Camaná 975, Lima 15001, Peru",3.9,4549,"['bar', 'point_of_interest', 'establishment']",,Salsa,Lima
+122,Sargento Pimienta Rock Bar,"Av. Francisco Bolognesi 757, Barranco 15063, Peru",4.4,1211,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Salsa,Lima
+123,Son de Cuba,"Pje. San Ramón 277, Miraflores 15074, Peru",4.1,879,"['point_of_interest', 'establishment']",,Salsa,Lima
+124,Karamba Latin Disco,"Av Industrial 3677, Independencia 15311, Peru",4.2,368,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Lima
+125,Bachata Club.,"Av. Javier Prado Este 1179, La Victoria 15034, Peru",4.7,3,"['point_of_interest', 'establishment']",,Salsa,Lima
+126,Bachata Studio - Clases de Salsa y Bachata,"Ca, C. 2 de Mayo 524, Miraflores, Peru",5.0,139,"['school', 'point_of_interest', 'establishment']",,Salsa,Lima
+127,Nebula,"Gonzáles Prada 194, Miraflores 15074, Peru",4.2,659,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Lima
+128,Kimbara Vip,"Av. Petit Thouars 2481, Lince 15046, Peru",3.9,70,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Lima
+129,Zipango Bar & Show,"Sanchez Carrion 131, Barranco 15063, Peru",4.0,574,"['night_club', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Salsa,Lima
+130,Murcia Club,"15112, Independencia 15086, Peru",3.8,110,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Lima
+131,Larco Club,"Av. José Larco 760, Miraflores 15074, Peru",4.2,57,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Lima
+132,Pasión Latina Lima Centro - Clases de Salsa y Bachata,"Av. Canadá 273, La Victoria 15034, Peru",5.0,37,"['point_of_interest', 'establishment']",,Salsa,Lima
+133,Antiqua Disco Club,"Malecón Corredor Costa Verde S/N Playa Baños de Barranco, Barranco 15063, Peru",4.2,1340,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Lima
+134,Dance School Rits,"a la altura de la, altura del hospital rebaliategui, Jr. Manuel Ascencio Segura 122, Lince 15046, Peru",4.9,59,"['point_of_interest', 'establishment']",,Salsa,Lima
+135,Salsa Music Hall,"Jiron Pacifico 115, Los Olivos 15301, Peru",4.0,2,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Lima
+136,Discoteca Hollywood,"Jr. Manuel Gonzales Prada 105 Villa, Los Olivos 15301, Peru",3.8,858,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Lima
+137,Bizarro,"Francisco de Paula Camino 220, Miraflores 15074, Peru",4.1,2381,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,Lima
+138,Mandala,"C. Cantuarias 151, Miraflores 15074, Peru",4.1,582,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Lima
+139,Perú Tropical Dance - San Miguel,"Av. de la Marina 2927, San Miguel 15087, Peru",4.8,34,"['point_of_interest', 'establishment']",,Salsa,Lima
+140,Casa da Matriz,"R. Henrique de Novais, 107 - Botafogo, Rio de Janeiro - RJ, 22281-050, Brazil",4.2,570,"['bar', 'night_club', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Salsa,Rio de Janiero
+141,Cachanga do Malandro,"R. da Lapa, 230 - Lapa, Rio de Janeiro - RJ, 20021-180, Brazil",4.5,37,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Rio de Janiero
+142,Febarj,"Av. Mem de Sá, 37 - Lapa, Rio de Janeiro - RJ, 20230-150, Brazil",4.7,30,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Rio de Janiero
+143,Fosfobox Bar Club,"Rua Siqueira Campos, 143 - loja 22a - Copacabana, Rio de Janeiro - RJ, 22031-070, Brazil",3.7,231,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Rio de Janiero
+144,Gafieira Elite,"R. Frei Caneca, 4 - Centro, Rio de Janeiro - RJ, 20211-030, Brazil",3.9,173,"['night_club', 'point_of_interest', 'establishment']",1.0,Salsa,Rio de Janiero
+145,Democratic Club,"R. Riachuelo, 91 - Lapa, Rio de Janeiro - RJ, 20230-010, Brazil",4.3,557,"['point_of_interest', 'establishment']",,Salsa,Rio de Janiero
+146,Scala Rio,"Av. Treze de Maio, 23 - Centro, Rio de Janeiro - RJ, 20031-902, Brazil",3.5,51,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Rio de Janiero
+147,Boate Kalabria,"Rua Belfort Roxo, 88 - Copacabana, Rio de Janeiro - RJ, 22020-010, Brazil",4.1,249,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Rio de Janiero
+148,New Mariuzinn,"Av. Nossa Sra. de Copacabana, 435 - Copacabana, Rio de Janeiro - RJ, 22050-002, Brazil",3.6,557,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,Rio de Janiero
+149,Rio Samba Dancer,"CONFIRMATION BY EMAIL - Av. Nossa Sra. de Copacabana, 807 - ROOM 603 - Copacabana, Rio de Janeiro - RJ, 22061-020, Brazil",5.0,55,"['tourist_attraction', 'school', 'point_of_interest', 'establishment']",,Salsa,Rio de Janiero
+150,Cozinha da Gafieira,"R. Ubaldino do Amaral, 56 - Sobrado, Rio de Janeiro - RJ, 20231-016, Brazil",5.0,14,"['point_of_interest', 'establishment']",,Salsa,Rio de Janiero
+151,Tau Bar Club - Boate em Copacabana,"Av. Nossa Sra. de Copacabana, 1417 - Copacabana, Rio de Janeiro - RJ, 22070-011, Brazil",4.2,213,"['bar', 'night_club', 'restaurant', 'food', 'point_of_interest', 'establishment']",,Salsa,Rio de Janiero
+152,Kizomba Lifestyle,"Av. Gomes Freire, 197 - Centro, Rio de Janeiro - RJ, 20231-012, Brazil",5.0,28,"['point_of_interest', 'establishment']",,Salsa,Rio de Janiero
+153,Street Lapa,"Av. Gomes Freire, 599 - Lapa, Rio de Janeiro - RJ, 20231-014, Brazil",4.2,802,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Rio de Janiero
+154,Teatro Odisséia,"Av. Mem de Sá, 66 - Lapa, Rio de Janeiro - RJ, 20230-152, Brazil",3.9,343,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,Rio de Janiero
+155,Music Club,"Str. Baratiei, 33, Bucuresti-Sector 3, Bucuresti, 30195, Strada Bărăției 33, București 030167, Romania",4.4,1106,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Rio de Janiero
+156,Bezerra Dance,"Av. Nossa Sra. de Copacabana, 807 - Copacabana, Rio de Janeiro - RJ, 22031-071, Brazil",5.0,138,"['school', 'point_of_interest', 'establishment']",,Salsa,Rio de Janiero
+157,Mississippi Delta Blues Bar,"R. Pedro Ernesto, 89 - Gamboa, Rio de Janeiro - RJ, 20220-350, Brazil",4.7,550,"['bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",2.0,Salsa,Rio de Janiero
+158,Rio Scenarium,"R. do Lavradio, 20 - Centro, Rio de Janeiro - RJ, 20230-070, Brazil",4.6,8022,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",3.0,Salsa,Rio de Janiero
+159,Rio Club Bucharest,"Strada Bărăției 31, București 030167, Romania",4.7,281,"['point_of_interest', 'establishment']",,Salsa,Rio de Janiero
+160,La Topa Tolondra Nightclub,"Cl. 5 #13-27, COMUNA 3, Cali, Valle del Cauca, Colombia",4.7,8897,"['night_club', 'bar', 'point_of_interest', 'establishment']",1.0,Salsa,"Cali, Colombia"
+161,Son Caribe Club Discotheque,"Cra. 23b #7-80, La Alameda, Cali, Valle del Cauca, Colombia",4.5,443,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,"Cali, Colombia"
+162,MalaMaña Salsa Bar,"Cra. 4 #9-59, San Pedro, Cali, Valle del Cauca, Colombia",4.6,1634,"['bar', 'point_of_interest', 'establishment']",1.0,Salsa,"Cali, Colombia"
+163,Casa Latina,"Cl. 7 #27-38, La Alameda, Cali, Valle del Cauca, Colombia",4.9,140,"['night_club', 'point_of_interest', 'establishment']",,Salsa,"Cali, Colombia"
+164,Donde Fabio Club,"Cl. 20 #3-14, San Nicolas, Cali, Valle del Cauca, Colombia",4.4,364,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Salsa,"Cali, Colombia"
+165,El Rincón De Heberth,"Cra. 24 #5-32, 3 de Julio, Cali, Valle del Cauca, Colombia",4.5,223,"['night_club', 'point_of_interest', 'establishment']",1.0,Salsa,"Cali, Colombia"
+166,Zaperoco Bar,"Av. 5 Nte. #16-46, San Vicente, Cali, Valle del Cauca, Colombia",4.6,1398,"['bar', 'night_club', 'point_of_interest', 'establishment']",2.0,Salsa,"Cali, Colombia"
+167,Museo De La Salsa - Barrio Obrero,"Cra. 11b #24 - 44, Cali, Valle del Cauca, Colombia",4.8,1330,"['museum', 'night_club', 'lodging', 'bar', 'point_of_interest', 'establishment']",,Salsa,"Cali, Colombia"
+168,La Caldera del Diablo,"Cl. 5 #14-35, COMUNA 3, Cali, Valle del Cauca, Colombia",4.6,844,"['bar', 'point_of_interest', 'establishment']",1.0,Salsa,"Cali, Colombia"
+169,Salsa Pa'l 23,"Cra. 23 # 12 - 41, Bretana, Cali, Valle del Cauca, Colombia",4.8,12,"['night_club', 'point_of_interest', 'establishment']",,Salsa,"Cali, Colombia"
+170,SaBaKi Night,"Cl. 5 #12-40, COMUNA 3, Cali, Valle del Cauca, Colombia",4.8,21,"['night_club', 'point_of_interest', 'establishment']",,Salsa,"Cali, Colombia"
+171,Habanero Club,"Cl. 7a #23 - A - 01, La Alameda, Cali, Valle del Cauca, Colombia",4.5,389,"['night_club', 'bar', 'point_of_interest', 'establishment']",,Salsa,"Cali, Colombia"
+172,Cimarrón Salsa Bar,"Cl. 4 #1-113, COMUNA 3, Cali, Valle del Cauca, Colombia",4.6,603,"['bar', 'point_of_interest', 'establishment']",2.0,Salsa,"Cali, Colombia"
+173,Living Night Club,"Cra. 40 #11-81, Acopi, Cali, Arroyo Hondo, Yumbo, Valle del Cauca, Colombia",4.5,4729,"['night_club', 'point_of_interest', 'establishment']",3.0,Salsa,"Cali, Colombia"
+174,Sondeluz Escuela y Academia de Baile,"Cl. 5b #26-65, San Fernando, Cali, Valle del Cauca, Colombia",4.8,225,"['point_of_interest', 'establishment']",,Salsa,"Cali, Colombia"
+175,EL BRONXS,"Cl. 5 #26-49, 3 de Julio, Cali, Valle del Cauca, Colombia",4.4,339,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,"Cali, Colombia"
+176,Punto Baré,"Cl. 5 #13-15, COMUNA 3, Cali, Valle del Cauca, Colombia",4.7,551,"['bar', 'point_of_interest', 'establishment']",1.0,Salsa,"Cali, Colombia"
+177,Saoko Social Club,"Cra. 46 #38a-03, Republica De Israel, Cali, Valle del Cauca, Colombia",4.7,26,"['night_club', 'point_of_interest', 'establishment']",,Salsa,"Cali, Colombia"
+178,SalsaPura - Dance without borders,"Cl. 4 #6-61, COMUNA 3, Cali, Valle del Cauca, Colombia",4.8,80,"['point_of_interest', 'establishment']",,Salsa,"Cali, Colombia"
+179,La Pérgola Clandestina,"Cra 2 #13-42, San Pedro, Cali, Valle del Cauca, Colombia",4.5,5444,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,"Cali, Colombia"
+180,Buenos Aires Dance Club,"Riobamba 72, C1022AAP Cdad. Autónoma de Buenos Aires, Argentina",4.9,538,"['school', 'point_of_interest', 'establishment']",,Salsa,Buenos Aires
+181,Salsódromo MUNDO LATINO,"Esmeralda 565, C1007 ABC, Cdad. Autónoma de Buenos Aires, Argentina",3.8,455,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Buenos Aires
+182,La Salsera,"Yatay 961, C1184ADQ Cdad. Autónoma de Buenos Aires, Argentina",4.4,1845,"['point_of_interest', 'establishment']",,Salsa,Buenos Aires
+183,El Rumbon. Salsa y Bachata,"Riobamba 345, C1025ABG Cdad. Autónoma de Buenos Aires, Argentina",4.5,413,"['point_of_interest', 'establishment']",,Salsa,Buenos Aires
+184,La Catedral Club,"Sarmiento 4006, C1197AAH Cdad. Autónoma de Buenos Aires, Argentina",4.2,1967,"['night_club', 'point_of_interest', 'establishment']",1.0,Salsa,Buenos Aires
+185,Buenos Ayres Club,"Perú 571, C1068 Cdad. Autónoma de Buenos Aires, Argentina",4.4,192,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Buenos Aires
+186,Club Bahrein,"Sarmiento 1752, C1042ABH Cdad. Autónoma de Buenos Aires, Argentina",4.3,2475,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Buenos Aires
+187,Your Club Disco,"Suipacha 586, C1008 AAL, Cdad. Autónoma de Buenos Aires, Argentina",3.8,501,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,Buenos Aires
+188,Gaby Salsa Club,"Av. Hipólito Yrigoyen 3140, B1824AAY Buenos Aires, Provincia de Buenos Aires, Argentina",4.8,113,"['school', 'point_of_interest', 'establishment']",,Salsa,Buenos Aires
+189,La City,"Av. Álvarez Thomas 1391, C1427 Cdad. Autónoma de Buenos Aires, Argentina",4.2,5725,"['point_of_interest', 'establishment']",,Salsa,Buenos Aires
+190,Club 69,"Cnel. Niceto Vega 5510, C1414BFD Cdad. Autónoma de Buenos Aires, Argentina",4.4,567,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Buenos Aires
+191,Swing City,"Av. Raúl Scalabrini Ortiz 103, C1414 Cdad. Autónoma de Buenos Aires, Argentina",4.9,385,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Salsa,Buenos Aires
+192,"""Club Gricel"" Tango Argentina","La Rioja 1180, C1221 Cdad. Autónoma de Buenos Aires, Argentina",4.5,634,"['point_of_interest', 'establishment']",2.0,Salsa,Buenos Aires
+193,Goa La France,"Sarmiento 1662, C1042ABF Cdad. Autónoma de Buenos Aires, Argentina",4.1,1950,"['night_club', 'point_of_interest', 'establishment']",,Salsa,Buenos Aires
+194,Lo de Celia Tango Club,"Humberto 1º 1783, C1454 Cdad. Autónoma de Buenos Aires, Argentina",4.5,408,"['point_of_interest', 'establishment']",,Salsa,Buenos Aires
+195,The Touch Cimarron,"Perú 571, C1068AAA Cdad. Autónoma de Buenos Aires, Argentina",4.5,715,"['point_of_interest', 'establishment']",,Salsa,Buenos Aires
+196,STUDIO1270 Multiespacio Art and Dance,"Av. Monroe 2027, C1428BLH Cdad. Autónoma de Buenos Aires, Argentina",4.9,221,"['point_of_interest', 'establishment']",,Salsa,Buenos Aires
+197,BLISS CLUB,"Avenida Niceto vegas, Cnel. Niceto Vega 5642, C1414BFF, Argentina",3.9,785,"['night_club', 'point_of_interest', 'establishment']",2.0,Salsa,Buenos Aires
+198,Timba Vip Buenos Aires,"Agüero 449, C1171ABE Cdad. Autónoma de Buenos Aires, Argentina",3.6,33,"['point_of_interest', 'establishment']",,Salsa,Buenos Aires
+199,LVT,"Armenia 1366 1er subsuelo, C1414DKD Cdad. Autónoma de Buenos Aires, Argentina",4.4,764,"['school', 'point_of_interest', 'establishment']",,Salsa,Buenos Aires
+200,Club Cache,"214 W 39th St ground Unit#5, New York, NY 10018, United States",3.9,255,"['night_club', 'point_of_interest', 'establishment']",,Bachata,New York
+201,Gonzalez y Gonzalez,"192 Mercer St, New York, NY 10012, United States",4.1,1799,"['restaurant', 'night_club', 'food', 'point_of_interest', 'establishment']",2.0,Bachata,New York
+202,Salsa Con Fuego,"2297 Cedar Ave, Bronx, NY 10468, United States",4.2,5697,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Bachata,New York
+203,Salsamania Saturdays,"224 W 35th St, New York, NY 10001, United States",4.8,93,"['point_of_interest', 'establishment']",,Bachata,New York
+204,KS Bachata Sensual NYC - Art of Bachata Sensual,"38W W 32nd St #405, New York, NY 10001, United States",4.9,165,"['point_of_interest', 'establishment']",,Bachata,New York
+205,Copacabana Nightclub,"625 W 51st St, New York, NY 10019, United States",3.5,625,"['night_club', 'point_of_interest', 'establishment']",,Bachata,New York
+206,Bembe,"81 S 6th St, Brooklyn, NY 11249, United States",4.3,1223,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Bachata,New York
+207,Deseos Lounge,"52-15 Roosevelt Ave, Woodside, NY 11377, United States",4.1,174,"['night_club', 'bar', 'point_of_interest', 'establishment']",,Bachata,New York
+208,Club Deportivo Inc,"2088 Amsterdam Ave, New York, NY 10032, United States",4.5,158,"['point_of_interest', 'establishment']",,Bachata,New York
+209,The Delancey Rooftop,"168 Delancey St, New York, NY 10002, United States",4.0,1773,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Bachata,New York
+210,Sensual Movement New York,"412 8th Ave, New York, NY 10001, United States",4.9,65,"['point_of_interest', 'establishment']",,Bachata,New York
+211,LVG Salsa Social NYC,"617 W 46th St, New York, NY 10036, United States",4.9,39,"['point_of_interest', 'establishment']",,Bachata,New York
+212,Salsa in Queens,"34-27 Steinway St, Astoria, NY 11101, United States",4.9,140,"['point_of_interest', 'establishment']",,Bachata,New York
+213,Salsa Sabrosa,"410-412 8th Ave 4th Floor, New York, NY 10001, United States",5.0,240,"['point_of_interest', 'establishment']",,Bachata,New York
+214,Joel Salsa,"38 W 32nd St 4th floor, New York, NY 10001, United States",5.0,434,"['point_of_interest', 'establishment']",,Bachata,New York
+215,Candela Fridays NYC,"37 W 26th St, New York, NY 10010, United States",4.9,16,"['point_of_interest', 'establishment']",,Bachata,New York
+216,Lorenz Latin Dance Studio Manhattan,"2153 2nd Ave, New York, NY 10029, United States",4.9,49,"['school', 'point_of_interest', 'establishment']",,Bachata,New York
+217,Salsa y Sazon,"370 E 146th St, Bronx, NY 10455, United States",4.3,127,"['night_club', 'bar', 'point_of_interest', 'establishment']",,Bachata,New York
+218,Solas,"232 E 9th St # 1, New York, NY 10003, United States",3.9,853,"['bar', 'point_of_interest', 'establishment']",2.0,Bachata,New York
+219,Salsa Salsa Dance Studio,"55 4th Ave, Brooklyn, NY 11217, United States",4.9,231,"['point_of_interest', 'establishment']",,Bachata,New York
+220,Salsa - Temple,"Victoria Embankment, Temple, London WC2R 2PH, United Kingdom",4.7,7921,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Bachata,London
+221,Salsa - Soho,"96 Charing Cross Rd, London WC2H 0JG, United Kingdom",4.5,7972,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Bachata,London
+222,Hammersmith Salsa & Bachata Club,"11 Rutland Grove, London W6 9DH, United Kingdom",4.9,181,"['bar', 'point_of_interest', 'establishment']",,Bachata,London
+223,La Pollera Colora,"4-6 London Bridge St, London SE1 9SG, United Kingdom",3.2,224,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Bachata,London
+224,Club Azucar - Latin Dance,"King St, London W6 9JT, United Kingdom",5.0,95,"['point_of_interest', 'establishment']",,Bachata,London
+225,Casa De Salsa,"65 Fieldgate St, London E1 1JU, United Kingdom",5.0,21,"['night_club', 'point_of_interest', 'establishment']",,Bachata,London
+226,Salsatropical Dance Company Ltd.- Salsa & Bachata Classes and Workshops,"1 Sheffield St, London WC2A 2AP, United Kingdom",4.9,377,"['point_of_interest', 'establishment']",,Bachata,London
+227,Exilio Latinx Party,"267 Kingsland Rd, Whitmore Estate, London E2 8AS, United Kingdom",3.0,31,"['night_club', 'point_of_interest', 'establishment']",,Bachata,London
+228,Latin Krazy,"Bar Salsa, Temple Pl, Temple, London WC2R 2PH, United Kingdom",3.4,12,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",,Bachata,London
+229,Caramelo Latin Dance Academy,"Paddington Academy, 50 Marylands Rd, London W9 2DR, United Kingdom",4.6,112,"['point_of_interest', 'establishment']",,Bachata,London
+230,Bachata Kiss,"37 Tavistock Pl, London WC1H 9SE, United Kingdom",5.0,9,"['point_of_interest', 'establishment']",,Bachata,London
+231,SOS Salsa On Sundays,"2 Regent's Park Rd, London NW1 7AY, United Kingdom",4.7,12,"['night_club', 'point_of_interest', 'establishment']",,Bachata,London
+232,"Rhythm & Vibes Dance Co - Kizomba, Salsa & Bachata Monthly Saturday Party in London","St Johns Angell Town School, 85 Angell Rd, London SW9 7HH, United Kingdom",4.7,51,"['point_of_interest', 'establishment']",,Bachata,London
+233,The Latin Passion,"Leicester House, 1 Leicester St, London WC2H 7BP, United Kingdom",4.8,16,"['point_of_interest', 'establishment']",,Bachata,London
+234,Salsateca Dance School,"27 Blackfriars Rd, London SE1 8NY, United Kingdom",4.9,86,"['point_of_interest', 'establishment']",,Bachata,London
+235,City Salsa London Salsa Classes and Clubs,"Clapham Junction, 68 Battersea Rise, London SW11 1EQ, United Kingdom",4.7,20,"['night_club', 'point_of_interest', 'establishment']",,Bachata,London
+236,Putney Salsa Club,"63A Upper Richmond Rd, London SW15 2RD, United Kingdom",4.7,22,"['point_of_interest', 'establishment']",,Bachata,London
+237,Cubaneando Salsa Classes,"c 4, 6 London Bridge St, London SE1 9SG, United Kingdom",4.6,86,"['night_club', 'point_of_interest', 'establishment']",,Bachata,London
+238,ATDANCING.UK,"The Pavilion, Brickfield Ln, London EN5 3LD, United Kingdom",5.0,39,"['point_of_interest', 'establishment']",,Bachata,London
+239,CARAMBA Latin Club,"Nether Court, Frith Ln, London NW7 1PU, United Kingdom",5.0,2,"['point_of_interest', 'establishment']",,Bachata,London
+240,Warsaw Salsa Club,"Nowowiejska 37B, 00-001 Warszawa, Poland",4.9,87,"['point_of_interest', 'establishment']",,Bachata,Warsaw
+241,Dos Mundos,"aleje Jerozolimskie 123A, 02-017 Warszawa, Poland",4.6,341,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Warsaw
+242,La Playa Music Bar,"Wybrzeże Helskie 1/5, 03-459 Warszawa, Poland",4.0,2307,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",2.0,Bachata,Warsaw
+243,Fiesta Latina,"Nowogrodzka 31, 00-511 Warszawa, Poland",3.9,318,"['point_of_interest', 'establishment']",,Bachata,Warsaw
+244,Level 27,"aleje Jerozolimskie 123A, 02-017 Warszawa, Poland",4.0,2951,"['night_club', 'bar', 'point_of_interest', 'establishment']",3.0,Bachata,Warsaw
+245,Teatro Cubano Warsaw,"Aleksandra Fredry 6, 00-097 Warszawa, Poland",3.6,6565,"['bar', 'movie_theater', 'night_club', 'restaurant', 'food', 'point_of_interest', 'establishment']",,Bachata,Warsaw
+246,ENKLAWA Art & Music Club,"Mazowiecka 12, 00-048 Warszawa, Poland",4.2,1636,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Bachata,Warsaw
+247,RITUAL Cocktail Club,"Mazowiecka 12, 00-048 Warszawa, Poland",4.3,1962,"['night_club', 'bar', 'point_of_interest', 'establishment']",3.0,Bachata,Warsaw
+248,Salsa Libre,"Żelazna 59, 00-848 Warszawa, Poland",4.7,244,"['point_of_interest', 'establishment']",,Bachata,Warsaw
+249,Luzztro,"aleje Jerozolimskie 6, 00-374 Warszawa, Poland",3.9,1086,"['night_club', 'point_of_interest', 'store', 'establishment']",2.0,Bachata,Warsaw
+250,ABRA Studio,"al. Jana Pawła II 11, 00-823 Warszawa, Poland",4.8,230,"['point_of_interest', 'establishment']",,Bachata,Warsaw
+251,Polish School of Dance Club,"Wał Miedzeszyński 646, 03-994 Warszawa, Poland",4.9,69,"['point_of_interest', 'establishment']",,Bachata,Warsaw
+252,BANK CLUB - THE BEST CLUB IN WARSAW,"Mazowiecka 14, 00-048 Warszawa, Poland",3.9,1539,"['night_club', 'point_of_interest', 'establishment']",3.0,Bachata,Warsaw
+253,Arthur Murray Dance Studio Warsaw,"Emilii Plater 10, 00-669 Warszawa, Poland",4.9,51,"['point_of_interest', 'establishment']",,Bachata,Warsaw
+254,Viva Cuba Dance Studio,"Marszałkowska 115 wejście od, Przechodnia, 00-102 Warszawa, Poland",4.8,131,"['point_of_interest', 'establishment']",,Bachata,Warsaw
+255,Dance.warsaw & SDS (salsa + bachata + high heels + K-pop),"Chłodna 29, 00-867 Warszawa, Poland",4.8,81,"['point_of_interest', 'establishment']",,Bachata,Warsaw
+256,Salsa Clasica,"Juliana Bartoszewicza 5, 00-337 Warszawa, Poland",4.8,97,"['point_of_interest', 'establishment']",,Bachata,Warsaw
+257,Capitol Warsaw Club,"Marszałkowska 115, 00-102 Warszawa, Poland",3.5,393,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,Warsaw
+258,Szkoła Tańców Karaibskich SalsHall Ortodox,"Żytnia 15/lok. 4, 01-014 Warszawa, Poland",4.9,205,"['point_of_interest', 'establishment']",,Bachata,Warsaw
+259,Club Room 13,"Mazowiecka 13, 00-052 Warszawa, Poland",3.5,1407,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Bachata,Warsaw
+260,Discoteca Azúcar,"C. de Atocha, 107, Centro, 28012 Madrid, Spain",3.8,447,"['night_club', 'point_of_interest', 'establishment']",1.0,Bachata,Madrid
+261,The Host Club,"C. de Ferraz, 38, Moncloa - Aravaca, 28008 Madrid, Spain",4.1,1145,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Madrid
+262,Discoteca El Son,"C. de la Victoria, 6, Centro, 28012 Madrid, Spain",4.1,3293,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Bachata,Madrid
+263,Enchufla Club de Salsa,"C. Cerro de la Alcazaba, 38, Puente de Vallecas, 28053 Madrid, Spain",4.7,73,"['night_club', 'point_of_interest', 'establishment']",1.0,Bachata,Madrid
+264,DANCES WITH STYLE / CUBAN SALSA CLASSES IN MADRID,"C. de Carretas, 14, 5º F, Centro, 28012 Madrid, Spain",4.9,32,"['point_of_interest', 'establishment']",,Bachata,Madrid
+265,Golden Gran Vía,"Pl. de los Mostenses, 11, Centro, 28013 Madrid, Spain",3.8,829,"['night_club', 'point_of_interest', 'establishment']",1.0,Bachata,Madrid
+266,"Sesión de baile social en la Ermita - SBK (Salsa, bachata y kizumba)","P.º de la Virgen del Puerto, Centro, 28054 Madrid, Spain",4.9,10,"['point_of_interest', 'establishment']",,Bachata,Madrid
+267,Nuvo Latín Bar,"C. del Estrecho de Gibraltar, 12, Cdad. Lineal, 28027 Madrid, Spain",4.4,255,"['night_club', 'point_of_interest', 'establishment']",1.0,Bachata,Madrid
+268,Calle Son: escuela especializada en Casino (salsa cubana),"C. de la Esgrima, 11, Centro, Centro, 28012 Madrid, Spain",4.9,72,"['point_of_interest', 'establishment']",,Bachata,Madrid
+269,The Show Kizomba Madrid,"C. de Fernández de los Ríos, 67, Chamberí, 28015 Madrid, Spain",0.0,0,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Madrid
+270,Super Dancers Family,"P.º de la Florida, 18, Moncloa - Aravaca, 28008 Madrid, Spain",4.7,42,"['point_of_interest', 'establishment']",,Bachata,Madrid
+271,Clases de Salsa y Bachata en la Latina,"C. de la Sierpe, 10, Centro, 28005 Madrid, Spain",0.0,0,"['point_of_interest', 'establishment']",,Bachata,Madrid
+272,Center Mambo Latino,"C. de Orense, 22, Tetuán, 28020 Madrid, Spain",3.8,328,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Madrid
+273,Clases de Salsa y Bachata Barrio de Salamanca,"C. de Claudio Coello, 95, Salamanca, 28006 Madrid, Spain",0.0,0,"['point_of_interest', 'establishment']",,Bachata,Madrid
+274,Clubbers Tour,"C. de la Cruz, 33, Centro, 28012 Madrid, Spain",3.5,68,"['night_club', 'bar', 'restaurant', 'point_of_interest', 'food', 'establishment']",1.0,Bachata,Madrid
+275,"ABAILARMADRID - Dance, friends and fun","Metro: Diego de León, C. de Azcona, 44, puerta de la izquierda), 1ª pl, Salamanca, 28028 Madrid, Spain",4.8,29,"['school', 'point_of_interest', 'establishment']",,Bachata,Madrid
+276,Premiumdance Clases De Salsa y Bachata,"C. de Ambrós, 34, Salamanca, 28028 Madrid, Spain",5.0,378,"['point_of_interest', 'establishment']",,Bachata,Madrid
+277,"Sala Olvido - Discoteca, Sala de Conciertos y Eventos.","C. del Olvido, 15, Usera, 28026 Madrid, Spain",4.2,646,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,Madrid
+278,DISCOTECA PRISMA,"C. de Alcalá, 192, Salamanca, 28028 Madrid, Spain",3.9,134,"['night_club', 'point_of_interest', 'establishment']",1.0,Bachata,Madrid
+279,Discoteca Yambu,"C. de Illescas, 98, Latina, 28047 Madrid, Spain",4.1,395,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Madrid
+280,Seven Dance Gràcia,"Carrer del Perill, 10, Gràcia, 08012 Barcelona, Spain",4.5,511,"['point_of_interest', 'establishment']",,Bachata,Barcelona
+281,Antilla Barcelona,"C. de Viladomat, 211, L'Eixample, 08015 Barcelona, Spain",4.1,1042,"['point_of_interest', 'establishment']",1.0,Bachata,Barcelona
+282,Bcn Baila - Salsa classes - Bachata and more!,"C/ d'Aragó, 178, L'Eixample, 08011 Barcelona, Spain",4.9,155,"['point_of_interest', 'establishment']",,Bachata,Barcelona
+283,Discoteca Latin Palace Barcelona,"C/ de Ramon Trias Fargas, 2-4, Ciutat Vella, 08005 Barcelona, Spain",4.2,1898,"['night_club', 'bar', 'point_of_interest', 'establishment']",,Bachata,Barcelona
+284,Salsongu - Bachatongu,"Passatge d'Utset, 11, L'Eixample, 08013 Barcelona, Spain",4.3,211,"['point_of_interest', 'establishment']",,Bachata,Barcelona
+285,MULTICULTURAL SALSA Y BACHATA BARCELONA,"C/ d'Ausiàs Marc, 125, L'Eixample, 08013 Barcelona, Spain",4.9,27,"['school', 'point_of_interest', 'establishment']",,Bachata,Barcelona
+286,El Bombó Salsa,"Carrer de la Mercè, 13, Ciutat Vella, 08002 Barcelona, Spain",4.0,686,"['bar', 'point_of_interest', 'establishment']",2.0,Bachata,Barcelona
+287,Salsa Buenavista,"C/ del Rosselló, 217, L'Eixample, 08008 Barcelona, Spain",5.0,1,"['point_of_interest', 'establishment']",,Bachata,Barcelona
+288,El Sabor,"Carrer de Francisco Giner, 32, Gràcia, 08012 Barcelona, Spain",4.5,1064,"['bar', 'point_of_interest', 'establishment']",1.0,Bachata,Barcelona
+289,Discoteca Delirio Barcelona,"C.de Berlín, 19, Les Corts, 08014 Barcelona, Spain",4.6,65,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Barcelona
+290,salsa in barcelona - ¡Ay Mi Salsa!,"C/ dels Carders, 12, Ciutat Vella, 08003 Barcelona, Spain",5.0,30,"['point_of_interest', 'establishment']",,Bachata,Barcelona
+291,Agua De Luna,"C. de Viladomat, 211, L'Eixample, 08029 Barcelona, Spain",3.7,21,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Barcelona
+292,D'Rumba Barcelona,"C. de Viladomat, 211, L'Eixample, 08015 Barcelona, Spain",3.7,851,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Barcelona
+293,Le Queen Barcelona,"Carrer dels Escudellers, 5, Ciutat Vella, 08002 Barcelona, Spain",3.6,151,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,Barcelona
+294,Bailongu,"Passatge d'Utset, 11-13, L'Eixample, 08013 Barcelona, Spain",4.8,268,"['point_of_interest', 'establishment']",,Bachata,Barcelona
+295,Canela Dance Club,"Carrer de Ca l'Alegre de Dalt, 55, Gràcia, 08024 Barcelona, Spain",3.4,595,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,Barcelona
+296,"Salsabana - SALSA, BACHATA, Twerking y + baile","Carrer de Burgos, 55, Sants-Montjuïc, 08014 Barcelona, Spain",4.9,175,"['school', 'point_of_interest', 'establishment']",,Bachata,Barcelona
+297,Bachata Dance Club Barcelona,"Carrer de Casanova, 171, Eixample, 08036 Barcelona, Spain",3.4,1028,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,Barcelona
+298,Salsa Club Bcn,"Moll de Mestral, 10, Sant Martí, 08005 Barcelona, Spain",3.2,26,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Barcelona
+299,La Pachanga,"8 Rue Vandamme, 75014 Paris, France",3.6,583,"['night_club', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Bachata,Paris
+300,School Dances Latines Salsanueva,"32 Rue du Capitaine Marchal, 75020 Paris, France",4.9,251,"['point_of_interest', 'establishment']",,Bachata,Paris
+301,La Peña,"3 Pass. de la Petite Boucherie, 75006 Paris, France",3.5,465,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Paris
+302,Salsero Pub Latino,"9 Rue du Petit Pont, 75005 Paris, France",3.7,1054,"['bar', 'point_of_interest', 'establishment']",2.0,Bachata,Paris
+303,Canela Club,"77 Rue du Faubourg du Temple, 75010 Paris, France",3.6,141,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Paris
+304,Studio Massaro - School Dances Latines - Paris Nation,"290 Bd Voltaire, 75011 Paris, France",4.4,296,"['point_of_interest', 'establishment']",,Bachata,Paris
+305,Salsabor Paris,"31 Rue Chapon, 75003 Paris, France",4.9,118,"['point_of_interest', 'establishment']",,Bachata,Paris
+306,Bachata Vibe Paris,"10 Rue des Terres au Curé, 75013 Paris, France",5.0,28,"['point_of_interest', 'establishment']",,Bachata,Paris
+307,Le Balajo,"9 Rue de Lappe, 75011 Paris, France",3.5,1522,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,Paris
+308,Bachata - Equis,"10 Rue des Terres au Curé, 75013 Paris, France",4.8,5,"['point_of_interest', 'establishment']",,Bachata,Paris
+309,"Evoke Paris Dance, Salsa, Bachata, Burlesque, Ballroom, Wedding Choreoraphies, Classes & lessons","14 Rue de Châteaudun, 75009 Paris, France",5.0,20,"['school', 'point_of_interest', 'establishment']",,Bachata,Paris
+310,Ecole Danses Latines-Tropicales Salsadanse.com,"40 Rue de Cîteaux, 75012 Paris, France",4.7,255,"['point_of_interest', 'establishment']",,Bachata,Paris
+311,Salsalianza _ Studio Bleu,"Entrée entre DEVREDetLCL _ deuxième sous-sol, 14 Bd Poissonnière, 75009 Paris, France",4.7,57,"['point_of_interest', 'establishment']",,Bachata,Paris
+312,SALSA CON ELEGUA,"1 Av. Pierre Masse, 75014 Paris, France",4.9,320,"['point_of_interest', 'establishment']",,Bachata,Paris
+313,Bachamia,"105 Rue de Tolbiac, 75013 Paris, France",4.3,31,"['point_of_interest', 'establishment']",,Bachata,Paris
+314,Para La Salsa,"8 Rue de Bièvre, 75005 Paris, France",5.0,23,"['point_of_interest', 'establishment']",,Bachata,Paris
+315,CLUB VENDOME,"9 Rue Daunou, 75002 Paris, France",3.8,513,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Bachata,Paris
+316,Salsa Con Ti,"1 Rue Fleury, 75018 Paris, France",4.5,8,"['point_of_interest', 'establishment']",,Bachata,Paris
+317,Salsa.paris,"61 Rue Dunois, 75013 Paris, France",5.0,1,"['point_of_interest', 'establishment']",,Bachata,Paris
+318,"Vueltasol - Course Dances Latines Salsa Bachata Particuliers, Bal Mariage, Workshops Business & Events","79 Rue de la Croix Nivert, 75015 Paris, France",5.0,13,"['point_of_interest', 'establishment']",,Bachata,Paris
+319,Casa de la Salsa,"Jaime, Lima 169, La Victoria 15033, Peru",4.2,339,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,Lima
+320,La Casona de Camana,"Jr. Camaná 975, Lima 15001, Peru",3.9,4549,"['bar', 'point_of_interest', 'establishment']",,Bachata,Lima
+321,Bachata Club.,"Av. Javier Prado Este 1179, La Victoria 15034, Peru",4.7,3,"['point_of_interest', 'establishment']",,Bachata,Lima
+322,Karamba Latin Disco,"Av Industrial 3677, Independencia 15311, Peru",4.2,368,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,Lima
+323,Bachata Studio - Clases de Salsa y Bachata,"Ca, C. 2 de Mayo 524, Miraflores, Peru",5.0,139,"['school', 'point_of_interest', 'establishment']",,Bachata,Lima
+324,Sargento Pimienta Rock Bar,"Av. Francisco Bolognesi 757, Barranco 15063, Peru",4.4,1211,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Bachata,Lima
+325,Son de Cuba,"Pje. San Ramón 277, Miraflores 15074, Peru",4.1,879,"['point_of_interest', 'establishment']",,Bachata,Lima
+326,Pasión Latina Lima Centro - Clases de Salsa y Bachata,"Av. Canadá 273, La Victoria 15034, Peru",5.0,37,"['point_of_interest', 'establishment']",,Bachata,Lima
+327,Nebula,"Gonzáles Prada 194, Miraflores 15074, Peru",4.2,659,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,Lima
+328,Larco Club,"Av. José Larco 760, Miraflores 15074, Peru",4.2,57,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Lima
+329,Perú Tropical Dance - San Miguel,"Av. de la Marina 2927, San Miguel 15087, Peru",4.8,34,"['point_of_interest', 'establishment']",,Bachata,Lima
+330,TQL Lounge,"Av. Ernesto Diez Canseco 146, Lima 15074, Peru",3.5,285,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",,Bachata,Lima
+331,Bachata en la Terraza,"Calle Santa María Reina 392 Mz U1 Lt 48, San Martín de Porres 15113, Peru",5.0,17,"['point_of_interest', 'establishment']",,Bachata,Lima
+332,Viva La Bachata Perú,"Av. Javier Prado Este 1179, La Victoria 15034, Peru",0.0,0,"['point_of_interest', 'establishment']",,Bachata,Lima
+333,Dance School Rits,"a la altura de la, altura del hospital rebaliategui, Jr. Manuel Ascencio Segura 122, Lince 15046, Peru",4.9,59,"['point_of_interest', 'establishment']",,Bachata,Lima
+334,Academia de baile Rumba Latina,"Av. San Luis 1881, San Borja 15021, Peru",4.8,37,"['school', 'point_of_interest', 'establishment']",,Bachata,Lima
+335,Salsambo,"Av. Jorge Chavez 921, Santiago de Surco 15049, Peru",5.0,14,"['point_of_interest', 'establishment']",,Bachata,Lima
+336,Academia de baile Rumba Latina,"05140, Santiago de Surco 15023, Peru",4.9,98,"['point_of_interest', 'establishment']",,Bachata,Lima
+337,Pasión Latina Surco - Clases de Salsa y Bachata,"Av. Santiago de Surco 3054, Santiago de Surco 15048, Peru",5.0,23,"['point_of_interest', 'establishment']",,Bachata,Lima
+338,Bachata 69,"Plaza de Armas de Los Olivos, Jirón Cesar Vallejo, Los Olivos 15301, Peru",0.0,0,"['point_of_interest', 'establishment']",,Bachata,Lima
+339,La Topa Tolondra Nightclub,"Cl. 5 #13-27, COMUNA 3, Cali, Valle del Cauca, Colombia",4.7,8897,"['night_club', 'bar', 'point_of_interest', 'establishment']",1.0,Bachata,"Cali, Colombia"
+340,Son Caribe Club Discotheque,"Cra. 23b #7-80, La Alameda, Cali, Valle del Cauca, Colombia",4.5,443,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,"Cali, Colombia"
+341,SaBaKi Night,"Cl. 5 #12-40, COMUNA 3, Cali, Valle del Cauca, Colombia",4.8,21,"['night_club', 'point_of_interest', 'establishment']",,Bachata,"Cali, Colombia"
+342,Zaperoco Bar,"Av. 5 Nte. #16-46, San Vicente, Cali, Valle del Cauca, Colombia",4.6,1398,"['bar', 'night_club', 'point_of_interest', 'establishment']",2.0,Bachata,"Cali, Colombia"
+343,MalaMaña Salsa Bar,"Cra. 4 #9-59, San Pedro, Cali, Valle del Cauca, Colombia",4.6,1634,"['bar', 'point_of_interest', 'establishment']",1.0,Bachata,"Cali, Colombia"
+344,Donde Fabio Club,"Cl. 20 #3-14, San Nicolas, Cali, Valle del Cauca, Colombia",4.4,364,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2.0,Bachata,"Cali, Colombia"
+345,Casa Latina,"Cl. 7 #27-38, La Alameda, Cali, Valle del Cauca, Colombia",4.9,140,"['night_club', 'point_of_interest', 'establishment']",,Bachata,"Cali, Colombia"
+346,Habanero Club,"Cl. 7a #23 - A - 01, La Alameda, Cali, Valle del Cauca, Colombia",4.5,389,"['night_club', 'bar', 'point_of_interest', 'establishment']",,Bachata,"Cali, Colombia"
+347,El Rincón De Heberth,"Cra. 24 #5-32, 3 de Julio, Cali, Valle del Cauca, Colombia",4.5,223,"['night_club', 'point_of_interest', 'establishment']",1.0,Bachata,"Cali, Colombia"
+348,La Caldera del Diablo,"Cl. 5 #14-35, COMUNA 3, Cali, Valle del Cauca, Colombia",4.6,844,"['bar', 'point_of_interest', 'establishment']",1.0,Bachata,"Cali, Colombia"
+349,El Escondite,"Cra. 37a #5-14, San Fernando, Cali, Valle del Cauca, Colombia",4.2,1626,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Bachata,"Cali, Colombia"
+350,Living Night Club,"Cra. 40 #11-81, Acopi, Cali, Arroyo Hondo, Yumbo, Valle del Cauca, Colombia",4.5,4729,"['night_club', 'point_of_interest', 'establishment']",3.0,Bachata,"Cali, Colombia"
+351,Cimarrón Salsa Bar,"Cl. 4 #1-113, COMUNA 3, Cali, Valle del Cauca, Colombia",4.6,603,"['bar', 'point_of_interest', 'establishment']",2.0,Bachata,"Cali, Colombia"
+352,Salsa School Rumba y Salsa,"Cl. 5 #13 - 83, COMUNA 3, Cali, Valle del Cauca, Colombia",5.0,536,"['school', 'point_of_interest', 'establishment']",,Bachata,"Cali, Colombia"
+353,Punto Baré,"Cl. 5 #13-15, COMUNA 3, Cali, Valle del Cauca, Colombia",4.7,551,"['bar', 'point_of_interest', 'establishment']",1.0,Bachata,"Cali, Colombia"
+354,La Pérgola Clandestina,"Cra 2 #13-42, San Pedro, Cali, Valle del Cauca, Colombia",4.5,5444,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Bachata,"Cali, Colombia"
+355,Havana Hostel & Dance School,"Carrera 24c #3-35, Miraflores, Cali, Valle del Cauca, Colombia",4.4,301,"['lodging', 'point_of_interest', 'establishment']",,Bachata,"Cali, Colombia"
+356,Amaranta Bar,"Av 6a N #15 Norte-30, San Vicente, Cali, Valle del Cauca, Colombia",4.3,565,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,"Cali, Colombia"
+357,Siboney Club-Discoteca,"Cra. 23b #7-74, La Alameda, Cali, Valle del Cauca, Colombia",4.6,487,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,"Cali, Colombia"
+358,Lolas Club Colombia,"Carrera 32A, Yumbo, Antigua Carretera a Yumbo, Yumbo, Valle del Cauca, Colombia",4.2,1727,"['night_club', 'bar', 'point_of_interest', 'establishment']",3.0,Bachata,"Cali, Colombia"
+359,Buenos Aires Dance Club,"Riobamba 72, C1022AAP Cdad. Autónoma de Buenos Aires, Argentina",4.9,538,"['school', 'point_of_interest', 'establishment']",,Bachata,Buenos Aires
+360,El Rumbon. Salsa y Bachata,"Riobamba 345, C1025ABG Cdad. Autónoma de Buenos Aires, Argentina",4.5,413,"['point_of_interest', 'establishment']",,Bachata,Buenos Aires
+361,Salsódromo MUNDO LATINO,"Esmeralda 565, C1007 ABC, Cdad. Autónoma de Buenos Aires, Argentina",3.8,455,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,Buenos Aires
+362,La Salsera,"Yatay 961, C1184ADQ Cdad. Autónoma de Buenos Aires, Argentina",4.4,1845,"['point_of_interest', 'establishment']",,Bachata,Buenos Aires
+363,Gaby Salsa Club,"Av. Hipólito Yrigoyen 3140, B1824AAY Buenos Aires, Provincia de Buenos Aires, Argentina",4.8,113,"['school', 'point_of_interest', 'establishment']",,Bachata,Buenos Aires
+364,La Catedral Club,"Sarmiento 4006, C1197AAH Cdad. Autónoma de Buenos Aires, Argentina",4.2,1967,"['night_club', 'point_of_interest', 'establishment']",1.0,Bachata,Buenos Aires
+365,STUDIO1270 Multiespacio Art and Dance,"Av. Monroe 2027, C1428BLH Cdad. Autónoma de Buenos Aires, Argentina",4.9,221,"['point_of_interest', 'establishment']",,Bachata,Buenos Aires
+366,Club Bahrein,"Sarmiento 1752, C1042ABH Cdad. Autónoma de Buenos Aires, Argentina",4.3,2475,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Buenos Aires
+367,Buenos Ayres Club,"Perú 571, C1068 Cdad. Autónoma de Buenos Aires, Argentina",4.4,192,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Buenos Aires
+368,Club 69,"Cnel. Niceto Vega 5510, C1414BFD Cdad. Autónoma de Buenos Aires, Argentina",4.4,567,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,Buenos Aires
+369,Latino 11,"Ecuador 60, C1214ABB C1214ABB, Cdad. Autónoma de Buenos Aires, Argentina",4.5,93,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Buenos Aires
+370,EL BARCITO BACHATERO sede floresta,"Av. Rivadavia 7927, C1407DYB Cdad. Autónoma de Buenos Aires, Argentina",4.4,25,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Buenos Aires
+371,CALI LATINO ACADEMIA DE BAILE,"Av. Hipólito Yrigoyen 1173, C1086AAO Cdad. Autónoma de Buenos Aires, Argentina",5.0,75,"['point_of_interest', 'establishment']",,Bachata,Buenos Aires
+372,LILA BACHATA & SALSA,"Maza 457, C1206 Cdad. Autónoma de Buenos Aires, Argentina",4.7,3,"['night_club', 'point_of_interest', 'establishment']",,Bachata,Buenos Aires
+373,The Venezuela Disco,"C1136ABB, Santiago del Estero 1280, C1136ABB Cdad. Autónoma de Buenos Aires, Argentina",4.0,95,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,Buenos Aires
+374,Swing City,"Av. Raúl Scalabrini Ortiz 103, C1414 Cdad. Autónoma de Buenos Aires, Argentina",4.9,385,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Bachata,Buenos Aires
+375,Your Club Disco,"Suipacha 586, C1008 AAL, Cdad. Autónoma de Buenos Aires, Argentina",3.8,501,"['night_club', 'bar', 'point_of_interest', 'establishment']",2.0,Bachata,Buenos Aires
+376,"""Club Gricel"" Tango Argentina","La Rioja 1180, C1221 Cdad. Autónoma de Buenos Aires, Argentina",4.5,634,"['point_of_interest', 'establishment']",2.0,Bachata,Buenos Aires
+377,Azúcar Disco,"Av. Córdoba 4175, C1188AAH Cdad. Autónoma de Buenos Aires, Argentina",3.9,45,"['night_club', 'point_of_interest', 'establishment']",2.0,Bachata,Buenos Aires
+378,Vibra Dance Studio,"Sucre 2419 Piso 1°A, C1428 Cdad. Autónoma de Buenos Aires, Argentina",4.6,84,"['point_of_interest', 'establishment']",,Bachata,Buenos Aires
